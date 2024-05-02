@@ -1,4 +1,4 @@
-# Modern Landing Page :computer: :art:
+# UI/UX Modern App :computer: :art:
 https://modern-website-example.netlify.app
 
 Welcome to HooBank, a modern, responsive landing page designed with user experience in mind. This project showcases the power of Tailwind CSS in bringing designs from Figma or Excalidraw to life on a webpage. 
